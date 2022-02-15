@@ -25,7 +25,7 @@ What we privode in our app
 🔵 Celcom 🇲🇾 🔜
 🔴 Telkomsel 🇲🇨 🔜
 
-
+Data​ center​
 🇸🇬 
 🇹🇭 
 🇲🇾 🔜
