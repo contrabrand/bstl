@@ -1,5 +1,5 @@
 
-{"Version":"1.01",
+{"Version":"1.02",
 
 "Url":"https://github.com/contrabrand/bstl/raw/main/stl.zip" ,
 
@@ -7,38 +7,25 @@
 
         🙏 WELCOME TO Stallion OVPN 🙏
 
-            Fast  Secure Stable
+             Fast  Secure Stable
 
-New updated 16/02/2022
+✅อัปเดท​ 17/02/2022
+✅เพิ่มไฟล์​ : JP/SG1/SG2/TH1/TH2
+TH1 เหมาะสำหรับเล่นเกม
+TH2​ เหมาะสำหรับการใช้งานทั่วไป
+✅ซิมที่ใช้งานได้
+🟢 AIS 🇹🇭 โปรรายเดือน(เพิ่มความเร็ว)​/โปรเอไอเอสเพลย
+🔵 DTAC 🇹🇭 โนโปร/ลาซาด้า/ไลน์
+🔴 TRUE 🇹🇭 โนโปร
+✅เซิฟ​ : 🇸🇬 🇹🇭 🇲🇨 🇯🇵
 
+- กดอัปเดทเรื่อยๆนะครับ
+- ติดต่อแอดมิน​ LINE : yallaaaj
+- คนทีไม่มีเพลยสโตร์ติดต่อแอดมินเพื่อขอ​ apk
 
-Stallion OVPN is a free  app for those who want to access internet securely and get more faster download speed. 
+รบกวนให้ดาวและรีวิวเพื่อเป็นกำลังใจให้ด้วยนะครับ
 
-What we privode in our app
-
-🟢 AIS 🇹🇭 
-🔵 DTAC 🇹🇭
-🔴 TRUE 🇹🇭
-🔴 MAXIS 🇲🇾 🔜
-🟡 DIGI 🇲🇾 🔜
-🟠 Umobile 🇲🇾 🔜
-🔵 Celcom 🇲🇾 🔜
-🔴 Telkomsel 🇲🇨 🔜
-
-Data​ center​
-🇸🇬 
-🇹🇭 
-🇲🇾 🔜
-🇲🇨 🔜
-🇭🇰 🔜
-🇳🇱
-🇮🇳
-🇺🇸
-
-Please choose the nearest server to your location for connection stability and get high-speed performance 
-
-Hope you all enjoy and thank you for using our app
-
+ขอขอบคุณที่ใช้งานแอปของเรา
 
 ",
 
