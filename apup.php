@@ -1,5 +1,5 @@
 
-{"Version":"1.03",
+{"Version":"1.04",
 
 "Url":"https://github.com/contrabrand/bstl/raw/main/stl.zip" ,
 
@@ -10,7 +10,7 @@
              Fast  Secure Stable
 
 ✅อัปเดท​ 17/02/2022
-✅เพิ่มไฟล์​ : แก้บัค
+✅เพิ่มไฟล์​ : TH3
 TH1 เหมาะสำหรับเล่นเกม
 TH2​ เหมาะสำหรับการใช้งานทั่วไป
 ✅ซิมที่ใช้งานได้
