@@ -1,23 +1,29 @@
 
-{"Version":"1.10",
+{"Version":"1.11",
 
 "Url":"https://github.com/contrabrand/bstl/raw/main/stl.zip" ,
 
 "Changelog":"  
+  🙏 WELCOME TO Stallion OVPN 🙏
 
-        🙏 WELCOME TO Stallion OVPN 🙏
+       Fast  Secure  Stable
 
-             Fast  Secure Stable
-
-✅อัปเดท​ 09/03/2022
-✅เพิ่มไฟล์​ : เพิ่ม​ TH​5
-TH1 เหมาะสำหรับเล่นเกม
-TH2​ เหมาะสำหรับการใช้งานทั่วไป
+✅อัปเดท​ 10/03/2022
+✅เพิ่มไฟล์​ : เพิ่ม​ TH​6
+🇸🇬SG1​ AMAZON
+🇸🇬SG2 DIGITALOCEAN
+🇸🇬SG3 AMAZON
+🇹🇭TH1 IDC
+🇹🇭TH2​ CAT
+🇹🇭TH​3 NIPA
+🇹🇭TH4 BANGMOD
+🇹🇭TH5 INET
+🇹🇭TH6 CSLOXINFO
 ✅ซิมที่ใช้งานได้
 🟢 AIS 🇹🇭 โปรรายเดือน(เพิ่มความเร็ว)​/โปรเอไอเอสเพลย
 🔵 DTAC 🇹🇭 โนโปร/ลาซาด้า/ไลน์
 🔴 TRUE 🇹🇭 โนโปร
-✅เซิฟ​ : 🇸🇬 🇹🇭 🇲🇨 🇯🇵
+✅เซิฟ​ : 🇸🇬 🇹🇭 🇯🇵
 
 - กดอัปเดทเรื่อยๆนะครับ
 - ติดต่อแอดมิน​ LINE : yallaaaj
