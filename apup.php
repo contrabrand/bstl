@@ -4,7 +4,7 @@
 "Url":"https://github.com/contrabrand/bstl/raw/main/stl.zip" ,
 
 "Changelog":"       
-✅อัปเดท 12/03/2022
+✅อัปเดท 14/03/2022
 ✅เพิ่มไฟล์ : SG4และSG5
 🇸🇬SG1 AMAZON
 🇸🇬SG2 DIGITALOCEAN
