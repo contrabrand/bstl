@@ -1,11 +1,11 @@
 
-{"Version":"1.15",
+{"Version":"1.16",
 
 "Url":"https://github.com/contrabrand/bstl/raw/main/stl.zip" ,
 
 "Changelog":"       
 ✅อัปเดท 16/03/2022
-✅เพิ่มไฟล์ : TH1ตัวใหม่
+✅เพิ่มไฟล์ :แก้ไขTH1ตัวใหม่
 🇸🇬SG1 AMAZON
 🇸🇬SG2 DIGITALOCEAN
 🇸🇬SG3 AMAZON
