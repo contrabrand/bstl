@@ -1,23 +1,16 @@
 
-{"Version":"1.17",
+{"Version":"1.18",
 
 "Url":"https://github.com/contrabrand/bstl/raw/main/stl.zip" ,
 
 "Changelog":"       
 ✅อัปเดท 16/04/2022
 ✅เพิ่มไฟล์ :เพิ่มTH READY 3 เซิฟเวอร์
-🇸🇬SG1 AMAZON
-🇸🇬SG2 DIGITALOCEAN
-🇸🇬SG3 AMAZON
-🇸🇬SG4 DIGITALOCEAN 
-🇸🇬SG5 DIGITALOCEAN 
-🇹🇭TH1 IDC (แนะนำสำหรับเกมส์)
-🇹🇭TH2 CAT (ทั่วไป)
-🇹🇭TH3 NIPA (แนะนำ)
-🇹🇭TH4 BANGMOD (แนะนำ)
-🇹🇭TH5 INET (แนะนำสำหรับเกมส์)
-🇹🇭TH6 METRABYTE (ห้ามใชัดาวน์โหลด)
-
+🇹🇭เซิฟไทย​ 10 เซิฟ
+🇸🇬เซิฟสิงคโป​ 5 เซิฟ
+🇯🇵เซิฟญี่ปุ่น​ 1 เซิฟ
+เกมแนะนำ​ bandmod/metra/
+ทั่วไปแนะนำ​ เซิฟสิงคโป​ / Ready​ / Cat
 ✅ซิมที่ใช้งานได้
 🟢 AIS 🇹🇭 โปรรายเดือน(เพิ่มความเร็ว)/โปรเอไอเอสเพลย
 🔵 DTAC 🇹🇭 โนโปร/ลาซาด้า/ไลน์
