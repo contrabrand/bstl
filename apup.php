@@ -1,11 +1,11 @@
 
-{"Version":"1.21",
+{"Version":"1.22",
 
 "Url":"https://github.com/contrabrand/bstl/raw/main/stl.zip" ,
 
 "Changelog":"       
 ✅อัปเดท 11/05/2022
-✅เพิ่มไฟล์ :เพิ่ม​ INET1/2 และCAT3 
+✅เพิ่มไฟล์ :เพิ่ม​ INET1/2 CAT3 SG2/SG3
 ✅ซิมที่ใช้งานได้
 🟢 AIS 🇹🇭 โปรรายเดือน(เพิ่มความเร็ว)/โปรเอไอเอสเพลย
 🔵 DTAC 🇹🇭 โนโปร/ลาซาด้า/ไลน์
